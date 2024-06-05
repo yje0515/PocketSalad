@@ -2,26 +2,28 @@
 
 
 
-## 목차
+# 목차
 
-- [개요](https://github.com/JongHoonKim1004/Project_Survey#-개요)
+- [개요](https://github.com/yje0515/PocketSalad?tab=readme-ov-file#-%EA%B0%9C%EC%9A%94)
 
-- [기술 스택](https://github.com/JongHoonKim1004/Project_Survey#-기술-스택)
+- [기술 스택](https://github.com/yje0515/PocketSalad?tab=readme-ov-file#-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D)
 
-- [프로젝트 설계](https://github.com/JongHoonKim1004/Project_Survey#-프로젝트-설계)
+- [프로젝트 설계](https://github.com/yje0515/PocketSalad?tab=readme-ov-file#-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B3%84-%EA%B5%AC%ED%98%84--ppt--erd-usecase)
 
-- [핵심 기능](https://github.com/JongHoonKim1004/Project_Survey#-핵심-기능)
+- [핵심 기능](https://github.com/yje0515/PocketSalad?tab=readme-ov-file#-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5)
 
-- [주요기능 실행화면](https://github.com/JongHoonKim1004/Project_Survey#-주요기능-실행화면)
+- [주요기능 실행화면](https://github.com/yje0515/PocketSalad?tab=readme-ov-file#-%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4)
 
-- [개선사항](https://github.com/oh_my_car/Project_Survey#-개선사항)
+- [개선사항](https://github.com/yje0515/PocketSalad?tab=readme-ov-file#-%EA%B0%9C%EC%84%A0%EC%82%AC%ED%95%AD)
 
-## 🚩 개요
+- [사이트 전체 이미지 보기](https://github.com/yje0515/PocketSalad?tab=readme-ov-file#-%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%A0%84%EC%B2%B4%EB%B3%B4%EA%B8%B0)
+
+# 🚩 개요
 
 - 프로젝트 목표 : 다양한 API 이용과 분리된 서버와 클라이언트 이용을 위한 `spring`, `jsp` `thymeLeaf` 자동차 관리 사이트
 - 개발 기간 : 24/04/23 ~ 24/05/30
 
-## 🔧 기술 스택
+# 🔧 기술 스택
 
 - Language : `Java(11)`, `JavaScript(ES6)`
 - Library & Framework : `Spring(5.2.7.RELEASE)`, `thymeLeaf(3.0.11.RELEASE)`, `mybatis(3.5.14)`, `jackson(2.16.1)`, `Spring Security(5.2.7.RELEASE)`
@@ -31,7 +33,7 @@
 - Tool : `STS`, `VSCode`
 - ETC : `Git`
 
-## 👾 프로젝트 설계, 구현 📂 PPT 📂 (ERD, USECASE)
+# 👾 프로젝트 설계, 구현 📂 PPT 📂 (ERD, USECASE)
 
 |![1](https://github.com/misosiruda/oh_my_car/assets/155126222/f1896d85-9d59-4716-a6e2-67ed5f9096a3) | ![2](https://github.com/misosiruda/oh_my_car/assets/155126222/342f7634-8743-41c3-a5bb-631adceb9edc) |
 | :-------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
@@ -47,7 +49,7 @@
 | ![21](https://github.com/misosiruda/oh_my_car/assets/155126222/109e1e1f-5362-4a6a-9a65-d68a1dd6fdc1) | ![22](https://github.com/misosiruda/oh_my_car/assets/155126222/ed6ff825-b0a4-4d53-b6e4-581d313474af) |
 | ![23](https://github.com/misosiruda/oh_my_car/assets/155126222/4e6bcd19-13d7-40f6-a0d7-b84112dfb52f) |
 
-## 💻 핵심 기능
+# 💻 핵심 기능
 
 ### 🛠️ 차량 부품 교체 주기 확인
 
@@ -98,9 +100,9 @@
 
   - 자동차 토막상식 작성,수정,삭제
 
-## 🎇 주요기능 실행화면
+# 🎇 주요기능 실행화면
 
-## **🏠 메인 페이지**
+### **🏠 메인 페이지**
 
 - **🚶‍♂️ 로그인**
 
@@ -130,7 +132,7 @@
 
     ![logout](https://github.com/yje0515/PocketSalad/assets/155126222/29ecae1c-972a-47b8-b34b-f379c9295523)
 
-### **문의게시판**
+### **📋 문의게시판**
 
 - **게시판 목록**
 
@@ -192,8 +194,5 @@
   - 
 
 ## 📷 사이트전체보기
-<details><summary>열기</summary>
-
+  - 
     ![main](https://github.com/yje0515/PocketSalad/assets/155126222/eeb336b3-003b-4903-8ea5-2c5bae9b4d13)
-
-</details>
