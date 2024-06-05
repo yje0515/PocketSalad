@@ -1,0 +1,20 @@
+@charset "UTF-8";@charset "UTF-8";
+
+#wrap {
+    width: 700px; /*1024 X 768 해상도를 맞추어서 설계  971*/ 
+    /*가운데 정렬을 위한 바깥쪽 여백 설정*/
+    margin:0;
+    margin-left : auto;
+    margin-right : auto;
+
+}
+
+h1 { color: green;} /*글색상*/
+table { width:100%; border-collapse:collapse; font-size:12px; line-height:24px; }
+
+table td, th { border : #d3d3d3 solid 1px; padding: 5px; }
+
+th { background: yellowgreen;}
+img { width:220px; height:300px;}
+a {text-decoration: none; color:black;}
+a:hover {text-decoration:underline; color:green;}
