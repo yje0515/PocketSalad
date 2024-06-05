@@ -32,6 +32,12 @@
 			});
 		}
 		setInterval(slide, 5000);
+		
+		$("#menuwrap").hide();
+	    $(".allmenu_open").on('mouseover', function() {
+	    	$("#menuwrap").slideToggle();
+	    });
+		
 	});
 </script>
 </head>
@@ -224,7 +230,7 @@
 				<a href="#"> <img class="product_img" src="img/hot2.jpg"
 					alt="hot2">
 					<h3>닭가슴살 샐러드</h3>
-				</a> 
+				</a>
 				<div class="text_box">
 					<span class="discount">19%</span> <span class="dc_price"><strong>6,700원</strong></span>
 					<span class="price">8,300원</span>
