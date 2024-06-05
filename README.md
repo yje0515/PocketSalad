@@ -1,7 +1,6 @@
 # PocketSalad
- Servlet,jsp
 
-![main](https://github.com/misosiruda/oh_my_car/assets/155126222/c2b057bf-568c-4aa1-a449-74f161dd20cf)
+
 
 ## 목차
 
@@ -191,3 +190,10 @@
 
 - **🎸기타**
   - 
+
+## 📷 사이트전체보기
+<details><summary>열기</summary>
+
+    ![main](https://github.com/yje0515/PocketSalad/assets/155126222/eeb336b3-003b-4903-8ea5-2c5bae9b4d13)
+
+</details>
