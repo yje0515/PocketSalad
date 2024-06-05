@@ -115,25 +115,21 @@
 
   - 모든 페이지에서 우측 상단의 `로그인`을 통해 로그인 할 수 있습니다.
 
-     ![login](https://github.com/yje0515/PocketSalad/assets/155126222/37b64048-0fd3-4e38-9ccb-6809d92f8acb) 
+     ![login](https://github.com/yje0515/PocketSalad/assets/155126222/37b64048-0fd3-4e38-9ccb-6809d92f8acb)
 
 
 - **🙍 회원가입**
 
   - 우측 상단 `회원가입`이나, 로그인화면에서 회원가입버튼을 통해 회원가입을 할 수 있습니다.
-      이 페이지에서 회원가입한 사용자는 일반회원(ROLE_MEMBER)의 권한만을 갖습니다.
-      페이지 접근에 제한이 있습니다.(관리자전용 페이지 등)
 
-      ![회원가입](https://github.com/misosiruda/oh_my_car/assets/81164760/cedc0930-0981-471d-8567-bb9c1082daae)
+      ![join](https://github.com/yje0515/PocketSalad/assets/155126222/b4fd99d9-c9a3-46aa-8fa5-114123c01db7)
 
 - **📄 회원정보 수정**
 
   - `회원 정보 수정` 에서는 회원정보를 변경할 수 있습니다.
-  - `차량 등록` 에서는 현재 자신이 소유하고 있는 차량을 등록 할수 있습니다.
-  - `차량 목록` 페이지 내 `차량 목록` 을 클릭하면 현재 내가 소유하고 있는 차량 목록을 확인 할수 있습니다.
-  - `회원 탈퇴` 로 사이트에서 탈퇴할 수 있습니다.
-
-      ![마이페이지](https://github.com/misosiruda/oh_my_car/assets/81164760/d387579e-8f4d-4aae-95ce-ea9acb87e5e3)
+      
+      ![userUpdate](https://github.com/yje0515/PocketSalad/assets/155126222/c149ba75-7628-4b09-9b69-7dacca80ac3b)
+      
 
 - **로그아웃**
 
