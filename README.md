@@ -35,19 +35,16 @@
 
 # 👾 프로젝트 설계, 구현 📂 PPT 📂 (ERD, USECASE)
 
-|![1](https://github.com/misosiruda/oh_my_car/assets/155126222/f1896d85-9d59-4716-a6e2-67ed5f9096a3) | ![2](https://github.com/misosiruda/oh_my_car/assets/155126222/342f7634-8743-41c3-a5bb-631adceb9edc) |
-| :-------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
-| ![3](https://github.com/misosiruda/oh_my_car/assets/155126222/438c0f52-8836-49be-bb59-fc3c97e29241) | ![4](https://github.com/misosiruda/oh_my_car/assets/155126222/cd4c71d1-5b50-4e22-94ca-39ffdf830e8b) |
-| ![5](https://github.com/misosiruda/oh_my_car/assets/155126222/97beab33-3ff5-4b38-b5ab-290ab701d16e) | ![6](https://github.com/misosiruda/oh_my_car/assets/155126222/140bcea4-48d3-4dcb-8716-2210413a2ce1) |
-| ![7](https://github.com/misosiruda/oh_my_car/assets/155126222/c8afd94d-64c7-4a47-a631-153718375bd2) | ![8](https://github.com/misosiruda/oh_my_car/assets/155126222/c5e2a829-97c9-4bbe-af12-89867f56a83c) |
-| ![9](https://github.com/misosiruda/oh_my_car/assets/155126222/e1d46de6-a797-49d1-9bc7-073457d77c3e) | ![10](https://github.com/misosiruda/oh_my_car/assets/155126222/9942c4d3-e017-4c65-b2ec-3ceb19b36d83) |
-| ![11](https://github.com/misosiruda/oh_my_car/assets/155126222/ffe87105-67fa-405d-9b53-2e15554e8a51) | ![12](https://github.com/misosiruda/oh_my_car/assets/155126222/ec9284e2-af95-4b04-ae54-618ede342893) |
-| ![13](https://github.com/misosiruda/oh_my_car/assets/155126222/064e944f-7539-40fd-a3fe-cef51eef019b) | ![14](https://github.com/misosiruda/oh_my_car/assets/155126222/4984a346-fb9e-4d25-b05d-24f8d98aa09e) |
-|![15](https://github.com/misosiruda/oh_my_car/assets/155126222/4c3ffb39-320b-4661-823a-c943dbf2b00e) | ![16](https://github.com/misosiruda/oh_my_car/assets/155126222/49b649db-0323-45bc-887d-b1448c5ca985) |
-| ![17](https://github.com/misosiruda/oh_my_car/assets/155126222/6b613af4-65b8-45f5-98f5-d6db3e5834dd) | ![18](https://github.com/misosiruda/oh_my_car/assets/155126222/a893250e-fec7-4957-83d7-b6b550e7a6ef) |
-| ![19](https://github.com/misosiruda/oh_my_car/assets/155126222/e785abb7-4df1-4251-a117-28120aea0610) | ![20](https://github.com/misosiruda/oh_my_car/assets/155126222/62dfe134-f1aa-4975-916f-0b04cae47ebe) |
-| ![21](https://github.com/misosiruda/oh_my_car/assets/155126222/109e1e1f-5362-4a6a-9a65-d68a1dd6fdc1) | ![22](https://github.com/misosiruda/oh_my_car/assets/155126222/ed6ff825-b0a4-4d53-b6e4-581d313474af) |
-| ![23](https://github.com/misosiruda/oh_my_car/assets/155126222/4e6bcd19-13d7-40f6-a0d7-b84112dfb52f) |
+| ![1](https://github.com/user-attachments/assets/63f7c723-adc3-44cb-9a72-36bbbf271e70) | ![2](https://github.com/user-attachments/assets/a2d30930-c320-4622-b6bd-379242c45340) |
+|:--:|:--:|
+| ![3](https://github.com/user-attachments/assets/73907c41-8387-4df4-8831-2d530292fbbe) | ![4](https://github.com/user-attachments/assets/fd0a304a-9544-4635-80ee-19fd4ed30053) |
+| ![5](https://github.com/user-attachments/assets/f3f96db3-5787-4d20-b7d4-2cf3a6cbf6ab) | ![6](https://github.com/user-attachments/assets/0c585c9a-8020-4350-985f-a2bb4386c844) |
+| ![7](https://github.com/user-attachments/assets/7ec55f5d-af9f-400e-b31e-a05cd2f46f75) | ![8](https://github.com/user-attachments/assets/f5e27bfb-4493-4742-8b48-5e6cae7acac0) |
+| ![9](https://github.com/user-attachments/assets/23544426-1275-406e-b042-542210f37c48) | ![10](https://github.com/user-attachments/assets/fff4cdb1-c66b-409c-9f13-5305b633d7e2) |
+| ![11](https://github.com/user-attachments/assets/2fba122d-d25f-4782-86a2-17da31fa861e) | ![12](https://github.com/user-attachments/assets/e06a0cdb-2f05-4420-a211-0afc61d990e5) |
+| ![13](https://github.com/user-attachments/assets/e6ed1601-6ead-4bf8-a681-705ef22f1bf2) | ![14](https://github.com/user-attachments/assets/86ae80e7-6c75-4dca-9715-6335f826298d) |
+| ![15](https://github.com/user-attachments/assets/ff59d714-1f60-4ea7-90c1-743a30a61897) |
+
 
 # 💻 핵심 기능
 
